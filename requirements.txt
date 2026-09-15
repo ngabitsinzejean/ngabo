@@ -1,7 +1,3 @@
-fastapi
-uvicorn[standard]
-sqlalchemy
-python-multipart
-python-jose[cryptography]
-passlib[bcrypt]
-jinja2
+streamlit
+dash
+plotly
